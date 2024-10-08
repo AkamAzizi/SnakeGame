@@ -1,5 +1,6 @@
-Snake Game
-Overview
+# Snake Game
+
+# Overview
 
 The Snake Game is a classic arcade-style game where players control a snake to collect food and grow in length while avoiding collisions with the walls or their own tail. The game challenges players to achieve the highest score by continuously feeding the snake without crashing.
 Features
@@ -10,12 +11,12 @@ Features
     Game Over Conditions: The game ends if the snake runs into a wall or itself.
     Restart Option: Easily restart the game after a game over to try for a higher score.
 
-##Tech Stack
+## Tech Stack
 
     Frontend: Pygame (for rendering graphics and handling user input)
     Backend: Python
 
-##Usage
+## Usage
 
     Controls: Use the arrow keys to move the snake in different directions:
         Up Arrow: Move up
@@ -25,11 +26,11 @@ Features
     Objective: Eat food to grow the snake and accumulate points. Avoid crashing into the walls or the snake’s tail.
     Restarting: Once the game ends, you can restart the game to try again.
 
-##Contributing
+## Contributing
 
     If you'd like to contribute to the Snake Game, feel free to fork the repository, submit issues, or create a pull request with your improvements.
 
-##Live Demo:
+## Live Demo:
 
 The game is available to play locally after cloning the repository and following the instructions below:
 
@@ -41,9 +42,9 @@ git clone https://github.com/yourusername/snake-game.git
 
 Install dependencies:
 
-##bash
+## bash
 
-##pip install pygame
+## pip install pygame
 
 Run the game:
 
