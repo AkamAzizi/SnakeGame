@@ -109,7 +109,7 @@ def check_collisions(snake):
 
 def game_over():
     canvas.delete(ALL)
-    canvas.create_text(canvas.winfo_width()/2, canvas.winfo_height()/2,font=("Arial",70), text="DU SUGER", fill="red",tag="gameover")
+    canvas.create_text(canvas.winfo_width()/2, canvas.winfo_height()/2,font=("Arial",70), text="Game Over", fill="red",tag="gameover")
 
 
 
