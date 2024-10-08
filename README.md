@@ -3,7 +3,7 @@
 # Overview
 
 The Snake Game is a classic arcade-style game where players control a snake to collect food and grow in length while avoiding collisions with the walls or their own tail. The game challenges players to achieve the highest score by continuously feeding the snake without crashing.
-Features
+## Features
 
     Simple Gameplay: Use the arrow keys to control the snake's movement.
     Growing Snake: The snake grows longer with each piece of food it consumes.
