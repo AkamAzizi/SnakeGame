@@ -42,12 +42,9 @@ git clone https://github.com/yourusername/snake-game.git
 
 ## Install dependencies:
 
-bash
-
-pip install pygame
+    pip install tkinter
 
 Run the game:
 
-bash
 
     python snake_game.py
