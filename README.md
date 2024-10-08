@@ -40,11 +40,11 @@ The game is available to play locally after cloning the repository and following
 
 git clone https://github.com/yourusername/snake-game.git
 
-Install dependencies:
+## Install dependencies:
 
-## bash
+bash
 
-## pip install pygame
+pip install pygame
 
 Run the game:
 
